@@ -4,21 +4,7 @@ IISER Bhopal [iGEM 2023](https://igem.org/) Wiki
 
 ## Description
 
-Feathers are largely produced as a waste byproduct at poultry plants. In recent years, especially,
-the development of the poultry industry has resulted in a large accumulation of feather keratin
-resources, which seriously pollute the environment. Usage of conventional approaches to feather
-degradation, like hydrothermal and chemical methods, are inefficient and consume large amounts
-of energy. Feather degrading bacteria (FDB) provide a promising alternative to degrade feather
-waste. We derive motivation from these feather degrading bacteria, which can efficiently degrade
-feathers to products with high amino acid content. Characterisation of feather degradation
-mechanism into disulphide bond reduction and proteolysis has helped us enhance our
-understanding of this elusive process. Deducing from the fact that sulphitolysis is an
-indispensable part of feather degradation, we plan to utilise enzymes involved in the L-Cysteine
-metabolic pathway for the same. We intend to devise two distinct recombinant strains of Bacillus
-subtilis 168 to make an efficient feather degradation system. The products thus formed are rich in
-amino acids and can serve as feed supplement. In this way, we intend to tackle this problem of
-feather pollution by providing a sustainable solution which captures the idea of a circular
-economy.
+This repo contains all the code for IISER Bhopal's 2023 iGEM Wiki.
 
 ## Getting Started
 
