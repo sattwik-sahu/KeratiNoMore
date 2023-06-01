@@ -4,9 +4,9 @@ export default {
   theme: {
     extend: {
       colors: {
-        "purple-dark": "#6267F1",
-        "purple-light": "#8997F3",
-        "igem-green": "#56D087",
+        "primary-1": "#6267F1",
+        "primary-2": "#8997F3",
+        secondary: "#56D087",
         "bg-light": "#E2EFF0",
         "text-dark": "#2C3144",
       },
