@@ -1,7 +1,38 @@
 @import "./index.css";
 
 @layer components {
-  section.project_name {
-    @apply text-3xl font-serif text-purple-dark;
+  .App {
+    @apply h-screen bg-bg-light flex flex-col gap-3;
+  }
+
+  section.test__route {
+    @apply grid h-screen place-items-center text-5xl font-serif font-extrabold text-primary-1;
+  }
+
+  .Home .brand {
+    @apply animate-bounce cursor-pointer;
+  }
+
+  .Header {
+    @apply grid place-items-center bg-text-dark py-4 px-6;
+  }
+
+  .Header nav {
+    @apply w-full flex justify-around items-center gap-2;
+  }
+
+  .Header nav a {
+    @apply font-sans text-lg font-semibold
+    text-bg-light hover:text-primary-2
+    py-2 px-3 border-b-4 border-transparent
+    transition-all duration-200;
+  }
+
+  .Header nav a:not(.active) {
+    @apply hover:-translate-y-1;
+  }
+
+  .Header nav a.active {
+    @apply text-secondary border-b-secondary;
   }
 }
